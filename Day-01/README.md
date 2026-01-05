@@ -18,6 +18,9 @@
 
 ## 📸 Screenshots
 
+![Color generator](images/frontend.png)
+![Quote API](images/backend.png)
+
 ## 🏃‍♂️ How to Run
 
 **Backend:**

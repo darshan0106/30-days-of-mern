@@ -10,11 +10,11 @@ I am undertaking a challenge to code one Frontend task and one Backend task ever
 
 ## Progress Log
 
-| Day    | Project Name          | Frontend Task          | Backend Task              | Status         |
-| :----- | :-------------------- | :--------------------- | :------------------------ | :------------- |
-| **01** | **Palette & Quotes**  | Random Color Generator | Random Quote API          | 🚧 In Progress |
-| **02** | **Timer & Logger**    | Stopwatch UI           | Request Logger Middleware | ⏳ Pending     |
-| **03** | **Accordion & Books** | Reusable Accordion     | Book CRUD API (Read)      | ⏳ Pending     |
+| Day    | Project Name          | Frontend Task          | Backend Task              | Status       |
+| :----- | :-------------------- | :--------------------- | :------------------------ | :----------- |
+| **01** | **Palette & Quotes**  | Random Color Generator | Random Quote API          | ✅ Completed |
+| **02** | **Timer & Logger**    | Stopwatch UI           | Request Logger Middleware | ⏳ Pending   |
+| **03** | **Accordion & Books** | Reusable Accordion     | Book CRUD API (Read)      | ⏳ Pending   |
 
 ---
 
