@@ -31,7 +31,7 @@
 ```bash
 cd backend
 npm install
-node index.js
+node server.js
 ```
 
 **Frontend**
