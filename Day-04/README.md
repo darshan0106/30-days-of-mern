@@ -19,13 +19,13 @@
 
 ## 📸 Screenshots
 
-![Stop watch](images/frontend1.png)
+![Modal](images/frontend1.png)
 
-![Stop watch](images/frontend2.png)
+![Modal](images/frontend2.png)
 
-![Logger](images/backend1.png)
+![Postman](images/backend1.png)
 
-![Logger](images/backend2.png)
+![Postman](images/backend2.png)
 
 ## 🏃‍♂️ How to Run
 

@@ -20,9 +20,9 @@
 
 ## 📸 Screenshots
 
-![Stop watch](images/frontend.png)
+![Accordian](images/frontend.png)
 
-![Logger](images/backend.png)
+![Postman](images/backend.png)
 
 ## 🏃‍♂️ How to Run
 
