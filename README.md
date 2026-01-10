@@ -17,8 +17,9 @@ I am undertaking a challenge to code one Frontend task and one Backend task ever
 | **03** | **Accordion & Books**                 | Reusable Accordion     | Book CRUD API (Read)          | ✅ Completed   |
 | **04** | **Custom Modal & Books**              | Custom useModel        | Book CRUD API (Update/Delete) | ✅ Completed   |
 | **05** | **Image Carousel & Input Validation** | Carousel UI            | Joi or express-validator      | ✅ Completed   |
-| **05** | **Search Bar & Filtering API**        | Search bar UI          | Query params                  | 🚧 In Progress |
-| **05** | **Dark Mode Toggle & Error Handler**  | dark mode UI           | Error handling Middleware     | ⏳ Pending     |
+| **06** | **Search Bar & Filtering API**        | Search bar UI          | Query params                  | ✅ Completed   |
+| **07** | **Dark Mode Toggle & Error Handler**  | dark mode UI           | Error handling Middleware     | 🚧 In Progress |
+| **08** | **Registration Form & Hashing**       | React Hook Form        | Password hashing              | ⏳ Pending     |
 
 ---
 
