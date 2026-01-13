@@ -1,0 +1,3 @@
+# Login Authentication
+
+This project is a secure React-based authentication system that implements JWT login using a modern, scalable architecture. Users can log in using their credentials, after which a token returned from the backend is stored in sessionStorage to maintain session state. The app uses React Context API to manage global authentication status, Axios interceptors to automatically attach tokens to API requests, and protected routes to restrict access to authenticated users only. This setup closely mirrors real-world production authentication flows used in modern web applications.
