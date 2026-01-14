@@ -21,8 +21,9 @@ I am undertaking a challenge to code one Frontend task and one Backend task ever
 | **07** | **Dark Mode Toggle & Error Handler**        | dark mode UI                   | Error handling Middleware     | ✅ Completed   |
 | **08** | **Registration Form & Hashing**             | React Hook Form                | Password hashing              | ✅ Completed   |
 | **09** | **Login UI & JWT Sign**                     | Login UI                       | JWT login                     | ✅ Completed   |
-| **10** | **Protected Route & JWT Verify Middleware** | redirects unauthenticated user | validate user access          | 🚧 In Progress |
-| **11** | **User Profile Card & User Relations**      | user data UI                   | model referencing             | ⏳ Pending     |
+| **10** | **Protected Route & JWT Verify Middleware** | redirects unauthenticated user | validate user access          | ✅ Completed   |
+| **11** | **User Profile Card & User Relations**      | user data UI                   | model referencing             | 🚧 In Progress |
+| **12** | **Theme Context Card & Population**         | global theme                   | populate() details            | ⏳ Pending     |
 
 ---
 
