@@ -1,0 +1,3 @@
+# Protected Route
+
+This project demonstrates how to implement protected routes in a React application using a custom RequireAuth wrapper component. The app checks user authentication based on the presence of a token and restricts access to certain routes accordingly. Unauthenticated users are automatically redirected to the login page, and after successful login, they are redirected back to the originally requested route. This approach ensures a secure and scalable routing structure using React Router, making it suitable for real-world applications that require authentication-based access control.
